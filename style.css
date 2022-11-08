@@ -1,0 +1,27 @@
+.card {
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+  transition: 0.3s;
+  width: 400px;
+  text-align: center;
+  margin-left: 37%;
+  height: 500px;
+  padding: 30px;
+}
+
+.container {
+  padding: 2px 16px;
+}
+.heading {
+  text-align: center;
+}
+img {
+  width: 250px;
+  border-radius: 50%;
+  border-style: groove;
+  height: 50%;
+}
+p {
+  font-size: 22px;
+  font-weight: 500;
+  font-family: sans-serif;
+}
